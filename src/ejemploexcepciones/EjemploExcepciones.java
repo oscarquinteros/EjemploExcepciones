@@ -13,7 +13,7 @@ public class EjemploExcepciones {
     //    try {
             gestor.acreditar("1", 100.00f);
             gestor.acreditar("2", 330.00f);
-            gestor.acreditar("1131", 540.00f);
+            gestor.acreditar("3", 540.00f);
          //    gestor.debitar("4", 50.00f);
             gestor.debitar("1", 50.00f);
             gestor.debitar("2", 130.00f);

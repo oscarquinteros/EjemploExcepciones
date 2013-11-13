@@ -38,6 +38,6 @@ public class CuentaTest {
     @Test
     public void saldoIgual() {
         Cuenta cuenta = new Cuenta("1","Activo",100f);
-        assertEquals(cuenta.getSaldo(),new Float(100));        
+        assertEquals(cuenta.getSaldo(),new Float(200));        
     }
 }
